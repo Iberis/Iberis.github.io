@@ -1,4 +1,9 @@
-/* Navigation bar */
+nav {
+	position: sticky;
+	top: 0;
+	Z-index: 1;
+}
+
 .navbar {
   list-style-type: none;
   margin: 0;
@@ -27,3 +32,4 @@
 header img {
   width: 100vw;
 }
+
