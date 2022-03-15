@@ -31,7 +31,7 @@ nav {
 /*Header image */
 header img {
   width: 99vw;
-  opacity: 100%;
+  opacity: 0;
 }
 
 body {
