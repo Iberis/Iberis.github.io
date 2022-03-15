@@ -33,3 +33,7 @@ header img {
   width: 100vw;
 }
 
+body {
+ background: url("./images/background.jpg");
+ background-size: cover;
+}
