@@ -1,6 +1,6 @@
 .nav_header {
   background-color:rgba(36, 38, 51, 0.2);
-  transition: background-color 50ms ease-out 20ms
+  transition: background-color 1s ease-out 20ms
 }
 
 .nav_header:hover {
