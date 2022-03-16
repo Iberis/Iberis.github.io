@@ -28,12 +28,19 @@ nav {
   background-color: #473f8f;
 }
 
-/*Header image */
+/*Header*/
+header {
+  display: flex;
+  overflow: hidden;
+  background: url("./images/header_image.jpg");
+}
+
 header img {
   width: 99vw;
   opacity: 0;
 }
 
+/*Body*/
 body {
  background: url("./images/background.jpg");
  background-size: cover;
