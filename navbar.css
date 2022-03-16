@@ -1,9 +1,9 @@
 .nav_header {
-  background-color:rgba(0, 0, 0, 0.2);
+  background-color:rgba(36, 38, 51, 0.2);
 }
 
 .nav_header:hover {
-  background-color:rgba(0, 0, 0, 1);
+  background-color:rgba(36, 38, 51, 1);
 }
 
 /*Navbar*/
