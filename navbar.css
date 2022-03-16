@@ -32,13 +32,13 @@ nav {
 header {
   display: flex;
   overflow: hidden;
-  align-items: center;
   width: 99vw;
   opacity: 0;
   background: url("./images/header_image.jpg");
 }
 
 header img {
+  align-items: center;
   opacity: 1;
 }
 
