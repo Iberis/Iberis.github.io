@@ -1,3 +1,12 @@
+.nav_header {
+  background-opacity: 0;
+}
+
+.nav_header:hover {
+  background-opacity: 1;
+}
+
+/*Navbar*/
 nav {
   position: sticky;
   top: 0;
@@ -33,7 +42,6 @@ header {
   display: flex;
   overflow: hidden;
   width: 99vw;
-  opacity: 0;
   background: url("./images/header_image.jpg");
 }
 
