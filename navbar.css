@@ -9,7 +9,7 @@ nav {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #a134eb;
+  background-color: #514a92;
 }
 
 .navbar_element {
@@ -25,7 +25,7 @@ nav {
 }
 
 .navbar_element a:hover {
-  background-color: #7827b0;
+  background-color: #473f8f;
 }
 
 /*Header image */
